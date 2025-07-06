@@ -37,6 +37,7 @@ The project simulates the process of managing client loan records in a bank.
 ## 📄 Report / Звіт (українською)
 - [📥 PDF Report](reports/Loan_Issuance_Report.pdf)
 - [📝 DOCX Report](reports/Loan_Issuance_Report.docx)
+- [PPTX Report](Presentation/Presentation.pptx)
 
 ## 👨‍🎓 About Me / Про мене
 I'm a student of Computer Science in Poland (1st year) and Software Development in Ukraine (3rd year).  
