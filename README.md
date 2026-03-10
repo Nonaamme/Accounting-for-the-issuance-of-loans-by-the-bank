@@ -1,53 +1,49 @@
-# Accounting-for-the-issuance-of-loans-by-the-bank
-Console app for managing bank loan records: input validation, file handling, record editing/deleting/sorting and queries. Report and presentation have logical schemes of function's relations.
+# Accounting for the Issuance of Loans by the Bank
 
-# 🏦 Accounting for the Issuance of Loans by the Bank
+Console application written in C++ that simulates managing bank loan records.  
+The project was developed as part of academic coursework and focuses on data processing, validation, and file-based storage.
 
-This is a console application developed just in console with C++ as part of my academic coursework.  
-The project simulates the process of managing client loan records in a bank.
+## Overview
 
-Це консольний додаток, розроблений просто в консолі за допомогою C++ в рамках моєї академічної курсової роботи.  
-Проект імітує процес управління кредитними записами клієнтів у банку.
+The application allows users to manage information about client loans in a bank.  
+It demonstrates working with structured data, implementing CRUD operations, validating input, and performing sorting and search operations.
 
-## 📌 Features / Функціональні можливості
+## Features
 
-- 📁 Create, read, update, and delete loan records (CRUD)  
-  Створення, перегляд, редагування та видалення записів про кредити
-- ✅ Input validation with regular expressions  
-  Перевірка введених даних за допомогою регулярних виразів
-- 🔍 Search and advanced filtering  
-  Пошук і розширене фільтрування
-- 🔃 Sorting by different fields (City, Sum of credit)
-Сортування за різними полями (Місто, Сума кредиту)
-- 📊 File operations with `.dat` files  
-  Робота з файлами у форматі `.dat`
-- 🧾 Error logging and data integrity checks  
-  Логування помилок та перевірка цілісності даних
+- Create, read, update, and delete loan records (CRUD)
+- Input validation using regular expressions
+- Search and filtering of records
+- Sorting by different fields (e.g., city, credit amount)
+- File operations with `.dat` files
+- Error logging and data integrity checks
 
----
+## Technologies
 
-## 🛠️ Technologies / Технології
+- **Language:** C++
+- **IDE:** Visual Studio
+- **Data storage:** Binary and text file handling
 
-- Language / Мова: C++
-- IDE: Visual Studio
-- File handling: Binary and text file operations  
-  Робота з бінарними та текстовими файлами
+## Project Structure
 
+The project focuses on implementing core programming concepts:
 
-## 📄 Report / Звіт (українською)
-- [📥 PDF Report](reports/Loan_Issuance_Report.pdf)
-- [📝 DOCX Report](reports/Loan_Issuance_Report.docx)
-- [PPTX Report](Presentation/Presentation.pptx)
+- structured data management
+- file-based persistence
+- validation and error handling
+- modular function organization
 
-## 👨‍🎓 About Me / Про мене
-I'm a student of Computer Science in Poland (1st year) and Software Development in Ukraine (3rd year).  
-I build practical projects to improve my programming and problem-solving skills.
+## Documentation
 
-Я студент спеціальності «Комп’ютерні науки» в Польщі (1 курс)  
-та спеціальності «Програмування» в Україні (3 курс).  
-Розробляю практичні проєкти для вдосконалення навичок програмування та вирішення задач.
+The repository includes the academic report and presentation describing the project architecture and logic.
+
+- [PDF Report](reports/Loan_Issuance_Report.pdf)
+- [DOCX Report](reports/Loan_Issuance_Report.docx)
+- [Presentation](Presentation/Presentation.pptx)
+
+## Context
+
+This project was created during my studies as part of an academic assignment. It represents an early exercise in building console applications that manage structured data and perform typical database-like operations without using a database system.
 
 ---
 
-📌 _This project is part of my educational portfolio._
-📌 _Цей проєкт є частиною мого навчального портфоліо._
+This repository is part of my learning portfolio.
